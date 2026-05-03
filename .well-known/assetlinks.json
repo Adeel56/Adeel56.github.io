@@ -1,0 +1,32 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.trezo.wallet",
+      "sha256_cert_fingerprints": [
+        "E3:58:AD:48:EE:12:02:67:19:95:46:17:CB:2E:75:DC:81:E8:F6:DB:A8:45:A4:EC:EA:54:86:D9:2B:4D:AC:C2",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "host.exp.exponent",
+      "sha256_cert_fingerprints": [
+        "E3:58:AD:48:EE:12:02:67:19:95:46:17:CB:2E:75:DC:81:E8:F6:DB:A8:45:A4:EC:EA:54:86:D9:2B:4D:AC:C2",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "50:C5:32:F9:B3:8C:3F:71:09:84:A4:A4:44:54:3A:A4:85:22:36:9C:AA:76:83:66:AE:E6:7B:ED:B5:87:13:76",
+        "9E:B6:B9:63:1C:EC:BB:D8:64:EF:60:78:26:E0:A3:0F:67:3D:C6:4C:F8:FB:57:53:26:3E:CA:AE:4B:C5:0F:AE"
+      ]
+    }
+  }
+]
